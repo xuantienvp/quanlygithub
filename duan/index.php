@@ -1,3 +1,3 @@
 <?php
-echo "This is index file";
+echo "123131312321#
 ?>
